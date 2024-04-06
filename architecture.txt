@@ -1,0 +1,7 @@
+pdf_merger_app/
+│
+├── merge_pdfs.py
+├── extract_images.py
+├── Cutter_PDF.py
+|── Merge_by_PageNumber.py
+├── main.py
